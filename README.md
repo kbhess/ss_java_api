@@ -5,20 +5,20 @@ Spring Java API using Maven
 Tests:
 Ensure pre-loaded data is in the following format:
 
-id
+id,
 name {
-  first
-  middle
+  first,
+  middle,
   last
 }
 address {
-  street
-  city
-  state
+  street,
+  city,
+  state,
   zip
 }
-email
+email,
 phone {
-  number
+  number,
   type
 }
